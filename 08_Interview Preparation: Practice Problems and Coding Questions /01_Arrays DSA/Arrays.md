@@ -1,7 +1,7 @@
 ---
 
 ## 1. Arrays & Hashing (10 Qs)
-1. Two Sum  
+1. Two Sum  - DONE
 2. 3Sum  
 3. Maximum Subarray (Kadane’s Algorithm)  
 4. Product of Array Except Self  
@@ -13,8 +13,8 @@
 10. Spiral Matrix  
 
 QUESTIONS DIFFICULTY LINK
-Rotate Array by K EASY
-Second Largest Number EASY
+Rotate Array by K EASY - DONE
+Second Largest Number EASY - Done
 Remove Duplicates from Sorted Array EASY
 Maximum Sum Subarray EASY
 Two Sum EASY
