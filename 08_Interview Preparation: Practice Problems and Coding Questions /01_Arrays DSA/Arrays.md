@@ -14,7 +14,7 @@
 
 QUESTIONS DIFFICULTY LINK
 Rotate Array by K EASY - DONE
-Second Largest Number EASY - Done
+Second Largest Number EASY - DONE
 Remove Duplicates from Sorted Array EASY
 Maximum Sum Subarray EASY
 Two Sum EASY
