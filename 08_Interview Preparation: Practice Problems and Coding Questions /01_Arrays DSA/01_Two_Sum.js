@@ -29,4 +29,7 @@ return [map.get(complement), i]
 map.set(arr[i],i)}
 }
 }
+
+console.log(twoSum([2,7,11,15], 9));
+
 console.log(twoSum([2,7,11,15], 9))
