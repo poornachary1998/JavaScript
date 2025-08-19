@@ -3,7 +3,7 @@
 ## 1. Arrays & Hashing (10 Qs)
 1. Two Sum  - DONE
 2. 3Sum  
-3. Maximum Subarray (Kadane’s Algorithm)  
+3. Maximum Subarray (Kadane’s Algorithm)  - naive - Kadane's Algorithm -DONE
 4. Product of Array Except Self  
 5. Subarray Sum Equals K  
 6. Longest Consecutive Sequence  
@@ -16,7 +16,7 @@ QUESTIONS DIFFICULTY LINK
 Rotate Array by K EASY - DONE
 Second Largest Number EASY - DONE
 Remove Duplicates from Sorted Array EASY
-Maximum Sum Subarray EASY
+Maximum Sum Subarray EASY - DONE
 Two Sum EASY
 Container With Most Water MEDIUM
 Best Time to Buy and Sell Stock EASY
