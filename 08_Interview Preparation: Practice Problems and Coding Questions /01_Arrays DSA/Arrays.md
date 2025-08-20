@@ -2,9 +2,8 @@
 
 ## 1. Arrays & Hashing (10 Qs)
 1. Two Sum  - DONE
-2. 3Sum  
 3. Maximum Subarray (Kadane’s Algorithm)  - naive - Kadane's Algorithm -DONE
-4. Product of Array Except Self  
+4. Product of Array Except Self  -Done
 5. Subarray Sum Equals K  
 6. Longest Consecutive Sequence  
 7. Next Permutation  
@@ -19,11 +18,12 @@ Remove Duplicates from Sorted Array EASY
 Maximum Sum Subarray EASY - DONE
 Two Sum EASY
 Container With Most Water MEDIUM
-Best Time to Buy and Sell Stock EASY
-Product of Array Except Self MEDIUM
+Best Time to Buy and Sell Stock EASY -Done
+Product of Array Except Self MEDIUM - Done
 Merge Intervals MEDIUM
 Combination Sum MEDIUM
 Missing Number EASY
 Find All Numbers Disappeared in an Array EASY
 
 ---
+
