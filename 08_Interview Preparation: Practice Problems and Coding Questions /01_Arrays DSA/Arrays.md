@@ -16,13 +16,13 @@ Rotate Array by K EASY - DONE
 Second Largest Number EASY - DONE
 Remove Duplicates from Sorted Array EASY
 Maximum Sum Subarray EASY - DONE
-Two Sum EASY
+Two Sum EASY - Done
 Container With Most Water MEDIUM
 Best Time to Buy and Sell Stock EASY -Done
 Product of Array Except Self MEDIUM - Done
 Merge Intervals MEDIUM
 Combination Sum MEDIUM
-Missing Number EASY
+Missing Number EASY - Done
 Find All Numbers Disappeared in an Array EASY
 
 ---
