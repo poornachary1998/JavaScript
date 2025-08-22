@@ -23,7 +23,7 @@ Product of Array Except Self MEDIUM - Done
 Merge Intervals MEDIUM
 Combination Sum MEDIUM
 Missing Number EASY - Done
-Find All Numbers Disappeared in an Array EASY
+Find All Numbers Disappeared in an Array EASY - DONE
 
 ---
 
