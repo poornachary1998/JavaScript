@@ -43,7 +43,7 @@ let missing =  sumOfN - sum;
 return missing;
 }
 
-let k = missingNumber([1,3,4,5])
+let k = missingNumber([1,0,3,4,5])
 console.log(k);
 
 // we need to use  (n*(n+1) )/2; if the array starts from 0 else ((n+1)*(n+2) )/2 if it doesnot contain 0
