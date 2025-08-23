@@ -5,7 +5,7 @@
 3. Maximum Subarray (Kadane’s Algorithm)  - naive - Kadane's Algorithm -DONE
 4. Product of Array Except Self  -Done
 5. Subarray Sum Equals K  
-6. Longest Consecutive Sequence  
+6. Longest Consecutive Sequence  - Done
 7. Next Permutation  
 8. Merge Intervals  
 9. Insert Interval  
