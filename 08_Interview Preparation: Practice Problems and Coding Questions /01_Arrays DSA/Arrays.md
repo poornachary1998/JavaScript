@@ -7,7 +7,7 @@
 5. Subarray Sum Equals K  
 6. Longest Consecutive Sequence  - Done
 7. Next Permutation  
-8. Merge Intervals  
+8. Merge Intervals  - Done
 9. Insert Interval  
 10. Spiral Matrix  
 
