@@ -8,7 +8,7 @@
 6. Longest Consecutive Sequence  - Done
 7. Next Permutation  
 8. Merge Intervals  - Done
-9. Insert Interval  
+9. Insert Interval  - Done
 10. Spiral Matrix  
 
 QUESTIONS DIFFICULTY LINK
@@ -20,7 +20,7 @@ Two Sum EASY - Done
 Container With Most Water MEDIUM
 Best Time to Buy and Sell Stock EASY -Done
 Product of Array Except Self MEDIUM - Done
-Merge Intervals MEDIUM
+Merge Intervals MEDIUM - Done
 Combination Sum MEDIUM
 Missing Number EASY - Done
 Find All Numbers Disappeared in an Array EASY - DONE
