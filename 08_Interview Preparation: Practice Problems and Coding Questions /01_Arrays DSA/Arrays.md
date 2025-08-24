@@ -14,7 +14,7 @@
 QUESTIONS DIFFICULTY LINK
 Rotate Array by K EASY - DONE
 Second Largest Number EASY - DONE
-Remove Duplicates from Sorted Array EASY
+Remove Duplicates from Sorted Array EASY - Done
 Maximum Sum Subarray EASY - DONE
 Two Sum EASY - Done
 Container With Most Water MEDIUM
