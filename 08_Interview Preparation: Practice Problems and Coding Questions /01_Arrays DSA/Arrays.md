@@ -6,7 +6,7 @@
 4. Product of Array Except Self  -Done
 5. Subarray Sum Equals K  - Done
 6. Longest Consecutive Sequence  - Done
-7. Next Permutation  
+7. Next Permutation  - Done
 8. Merge Intervals  - Done
 9. Insert Interval  - Done
 10. Spiral Matrix  
@@ -17,11 +17,11 @@ Second Largest Number EASY - DONE
 Remove Duplicates from Sorted Array EASY - Done
 Maximum Sum Subarray EASY - DONE
 Two Sum EASY - Done
-Container With Most Water MEDIUM
+Container With Most Water MEDIUM - Done.
 Best Time to Buy and Sell Stock EASY -Done
 Product of Array Except Self MEDIUM - Done
 Merge Intervals MEDIUM - Done
-Combination Sum MEDIUM
+Combination Sum MEDIUM 
 Missing Number EASY - Done
 Find All Numbers Disappeared in an Array EASY - DONE
 
