@@ -1,8 +1,8 @@
 ---
 
 ## 2. Strings (8 Qs)
-11. Valid Anagram  
-12. Group Anagrams  
+11. Valid Anagram - Done
+12. Group Anagrams
 13. Longest Substring Without Repeating Characters  
 14. Longest Palindromic Substring  
 15. Minimum Window Substring  
@@ -11,17 +11,13 @@
 18. Regular Expression Matching (DP) 
 
 
-QUESTIONS DIFFICULTY LINK
+QUESTIONS DIFFICULTY LINK (7Qs)
 
 Valid Palindrome EASY
 Reverse String EASY
-Valid Anagram EASY
 Hamming Distance EASY
-Longest Palindromic Substring MEDIUM
-Group Anagrams MEDIUM
 Reverse String ii EASY
 Longest Common Prefix EASY
 String to Integer (atoi) MEDIUM
 Palindrome Permutation MEDIUM
-Longest Substring Without Repeating Characters MEDIUM
 ---
