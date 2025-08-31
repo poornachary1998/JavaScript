@@ -14,7 +14,7 @@
 QUESTIONS DIFFICULTY LINK (7Qs)
 
 Valid Palindrome EASY
-Reverse String EASY
+Reverse String EASY - Done
 Hamming Distance EASY
 Reverse String ii EASY
 Longest Common Prefix EASY
