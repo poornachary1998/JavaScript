@@ -2,7 +2,7 @@
 
 ## 2. Strings (8 Qs)
 11. Valid Anagram - Done
-12. Group Anagrams 
+12. Group Anagrams - Done
 13. Longest Substring Without Repeating Characters  
 14. Longest Palindromic Substring  
 15. Minimum Window Substring  
