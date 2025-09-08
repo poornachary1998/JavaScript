@@ -3,7 +3,7 @@
 ## 2. Strings (8 Qs)
 11. Valid Anagram - Done
 12. Group Anagrams - Done
-13. Longest Substring Without Repeating Characters  
+13. Longest Substring Without Repeating Characters  - Done
 14. Longest Palindromic Substring  
 15. Minimum Window Substring  
 16. Valid Parentheses  - Done
@@ -16,7 +16,7 @@ QUESTIONS DIFFICULTY LINK (7Qs)
 Valid Palindrome EASY - Done
 Reverse String EASY - Done
 Hamming Distance EASY
-Reverse String ii EASY
+Reverse String ii EASY - Done
 Longest Common Prefix EASY
 String to Integer (atoi) MEDIUM
 Palindrome Permutation MEDIUM
