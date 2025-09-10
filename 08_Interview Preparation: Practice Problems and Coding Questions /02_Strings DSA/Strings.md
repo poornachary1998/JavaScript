@@ -4,7 +4,7 @@
 11. Valid Anagram - Done
 12. Group Anagrams - Done
 13. Longest Substring Without Repeating Characters  - Done
-14. Longest Palindromic Substring  
+14. Longest Palindromic Substring  - Done
 15. Minimum Window Substring  
 16. Valid Parentheses  - Done
 17. Decode String  
