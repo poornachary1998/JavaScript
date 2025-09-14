@@ -7,7 +7,7 @@
 14. Longest Palindromic Substring  - Done
 15. Minimum Window Substring  -Done
 16. Valid Parentheses  - Done
-17. Decode String  
+17. Decode String  - Done
 18. Regular Expression Matching (DP) 
 
 
