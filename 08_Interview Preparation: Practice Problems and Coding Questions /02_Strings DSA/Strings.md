@@ -15,7 +15,7 @@ QUESTIONS DIFFICULTY LINK (7Qs)
 
 Valid Palindrome EASY - Done
 Reverse String EASY - Done
-Hamming Distance EASY
+Hamming Distance EASY  - Done
 Reverse String ii EASY - Done
 Longest Common Prefix EASY
 String to Integer (atoi) MEDIUM
