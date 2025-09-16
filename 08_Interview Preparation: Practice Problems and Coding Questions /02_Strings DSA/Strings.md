@@ -17,7 +17,7 @@ Valid Palindrome EASY - Done
 Reverse String EASY - Done
 Hamming Distance EASY  - Done
 Reverse String ii EASY - Done
-Longest Common Prefix EASY
+Longest Common Prefix EASY - Done
 String to Integer (atoi) MEDIUM
 Palindrome Permutation MEDIUM
 ---
