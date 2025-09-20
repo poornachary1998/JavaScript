@@ -58,6 +58,4 @@ function sayHi(){
 var sayBye = function(){
     console.log("Bye");
 }
-
-
 // TypeError: sayBye is not a function
