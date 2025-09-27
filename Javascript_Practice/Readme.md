@@ -8,8 +8,8 @@ It covers **Beginner → Intermediate → Advanced** concepts with theory, codin
 ## 🟢 Beginner (Foundations — must be crystal clear)
 These are basics, but interviewers expect you to explain them deeply.
 
-1. Variables & Data Types (var, let, const, typeof, primitive vs reference types)  
-2. Type Conversion & Coercion  
+1. Variables & Data Types (var, let, const, typeof, primitive vs reference types)  - Done
+2. Type Conversion & Coercion  - Done
 3. Operators (== vs ===, logical operators, ternary, spread/rest)  
 4. Control Structures (if, switch, loops, for…in, for…of)  
 5. Functions Basics (declaration, expression, arrow functions)  
