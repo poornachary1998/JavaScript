@@ -10,7 +10,7 @@ These are basics, but interviewers expect you to explain them deeply.
 
 1. Variables & Data Types (var, let, const, typeof, primitive vs reference types)  - Done
 2. Type Conversion & Coercion  - Done
-3. Operators (== vs ===, logical operators, ternary, spread/rest)  
+3. Operators (== vs ===, logical operators, ternary, spread/rest)  -- Done
 4. Control Structures (if, switch, loops, for…in, for…of)  
 5. Functions Basics (declaration, expression, arrow functions)  
 6. Scope & Lexical Environment  
