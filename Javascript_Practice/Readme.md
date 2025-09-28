@@ -12,7 +12,7 @@ These are basics, but interviewers expect you to explain them deeply.
 2. Type Conversion & Coercion  - Done
 3. Operators (== vs ===, logical operators, ternary, spread/rest)  -- Done
 4. Control Structures (if, switch, loops, for…in, for…of)  -- Done
-5. Functions Basics (declaration, expression, arrow functions)  
+5. Functions Basics (declaration, expression, arrow functions)  -- Done
 6. Scope & Lexical Environment  
 7. Hoisting  
 8. Closures  
