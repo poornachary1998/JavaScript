@@ -13,8 +13,8 @@ These are basics, but interviewers expect you to explain them deeply.
 3. Operators (== vs ===, logical operators, ternary, spread/rest)  -- Done
 4. Control Structures (if, switch, loops, for…in, for…of)  -- Done
 5. Functions Basics (declaration, expression, arrow functions)  -- Done
-6. Scope & Lexical Environment  
-7. Hoisting  
+6. Scope & Lexical Environment  --Done
+7. Hoisting  --Done
 8. Closures  
 9. The `this` keyword (global, object, function, arrow fn, bind/apply/call)  
 10. Prototype & Inheritance  
