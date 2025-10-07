@@ -15,7 +15,7 @@ These are basics, but interviewers expect you to explain them deeply.
 5. Functions Basics (declaration, expression, arrow functions)  -- Done
 6. Scope & Lexical Environment  --Done
 7. Hoisting  --Done
-8. Closures  
+8. Closures  -- Done
 9. The `this` keyword (global, object, function, arrow fn, bind/apply/call)  
 10. Prototype & Inheritance  
 11. Objects & Arrays Basics (create, iterate, destructure, freeze, seal)  
