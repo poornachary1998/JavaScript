@@ -18,8 +18,8 @@ These are basics, but interviewers expect you to explain them deeply.
 8. Closures  -- Done
 9. The `this` keyword (global, object, function, arrow fn, bind/apply/call)  --- Done
 10. Prototype & Inheritance  --Done
-11. Objects & Arrays Basics (create, iterate, destructure, freeze, seal)  
-12. ES6 Basics → let/const, template literals, default params, destructuring, spread/rest  
+11. Objects & Arrays Basics (create, iterate, destructure, freeze, seal)  -- Done
+12. ES6 Basics → let/const, template literals, default params, destructuring, spread/rest  -- Done
 
 ---
 
