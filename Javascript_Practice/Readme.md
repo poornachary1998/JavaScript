@@ -26,7 +26,7 @@ These are basics, but interviewers expect you to explain them deeply.
 ## 🟡 Intermediate (Where real interviews begin)
 Here you’ll start building **polyfills, async code, and DOM stuff**.
 
-13. Execution Context & Call Stack  
+13. Execution Context & Call Stack  -- Done
 14. Event Loop, Microtask Queue, Macrotask Queue  
 15. Timers (setTimeout, setInterval, requestAnimationFrame)  
 16. Call/Apply/Bind  
@@ -45,7 +45,7 @@ Here you’ll start building **polyfills, async code, and DOM stuff**.
 29. LocalStorage, SessionStorage, Cookies  
 30. Debounce & Throttle (implement)  
 31. Memoization (implement)  
-32. JavaScript Engine & Garbage Collection  
+32. JavaScript Engine & Garbage Collection  -- Done
 
 ---
 
