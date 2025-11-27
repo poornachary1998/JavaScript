@@ -28,7 +28,7 @@ Here you’ll start building **polyfills, async code, and DOM stuff**.
 
 13. Execution Context & Call Stack  -- Done
 14. Event Loop, Microtask Queue, Macrotask Queue  -- Done
-15. Timers (setTimeout, setInterval, requestAnimationFrame)  
+15. Timers (setTimeout, setInterval, requestAnimationFrame)  -- Done
 16. Call/Apply/Bind         
 17. Currying  
 18. Polyfills (forEach, map, filter, reduce, bind, call, apply)  
