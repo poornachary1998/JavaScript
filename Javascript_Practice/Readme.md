@@ -27,9 +27,9 @@ These are basics, but interviewers expect you to explain them deeply.
 Here you’ll start building **polyfills, async code, and DOM stuff**.
 
 13. Execution Context & Call Stack  -- Done
-14. Event Loop, Microtask Queue, Macrotask Queue  
+14. Event Loop, Microtask Queue, Macrotask Queue  -- Done
 15. Timers (setTimeout, setInterval, requestAnimationFrame)  
-16. Call/Apply/Bind  
+16. Call/Apply/Bind         
 17. Currying  
 18. Polyfills (forEach, map, filter, reduce, bind, call, apply)  
 19. Deep Copy vs Shallow Copy (JSON, structuredClone, recursion)  
