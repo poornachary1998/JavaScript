@@ -83,3 +83,167 @@ Now you’re getting into **design patterns, optimizations, and internals**.
 - ✅ Confidence for **DSA + Frontend interviews at 25 LPA+ companies**  
 
 ---
+
+
+
+✅ 40 JavaScript Problem-Solving Questions (5+ Years Experience)
+
+I grouped them by difficulty + real-world category.
+
+A. Medium-Level Logic (Warm-Up)
+1. Implement debounce(fn, delay)
+
+Runs function after user stops triggering it.
+
+2. Implement throttle(fn, delay)
+
+Ensures function runs once every X ms.
+
+3. Polyfill: Array.prototype.map
+4. Polyfill: Function.prototype.bind
+5. Remove duplicates from an array (multiple ways)
+
+Using Set
+
+Using filter
+
+Using reduce
+
+6. Flatten an array without using .flat()
+flatten([1,[2,[3,4]],5]) // [1,2,3,4,5]
+
+7. Convert nested object to a single-level object
+{ a: { b: 2 }, c: 3 } → { "a.b": 2, "c": 3 }
+
+8. Find missing number from 1…N
+9. Count frequency of characters in a string
+10. Deep clone an object without JSON.stringify
+B. Advanced Logic Problems (5+ YOE)
+11. Implement a custom Promise
+
+With:
+
+resolve
+
+reject
+
+then
+
+catch
+
+12. Promise all polyfill
+13. Promise race polyfill
+14. Write an LRU Cache
+
+Using Map (real interview FAVORITE).
+
+15. Event Emitter
+on(), off(), emit()
+
+16. Implement Memoization function
+const memo = (fn) => { … }
+
+17. Create a retry mechanism for failed API
+
+Retry 3 times with delay.
+
+18. Limit concurrent API calls
+
+Example: allow only 3 parallel calls → queue the rest.
+
+19. Implement a task scheduler
+
+Runs tasks in sequence or parallel.
+
+20. Create a Pub/Sub system
+C. Event Loop / Async / Execution Context Problems
+
+These ALWAYS appear in senior interviews.
+
+21. Predict output involving
+
+microtasks (Promise, queueMicrotask)
+
+macrotasks (setTimeout)
+
+async/await
+
+Example:
+
+console.log("A");
+
+setTimeout(() => console.log("B"));
+
+Promise.resolve().then(() => console.log("C"));
+
+async function test() {
+  console.log("D");
+  await Promise.resolve();
+  console.log("E");
+}
+test();
+
+console.log("F");
+
+
+Interview expects you to explain why the output is A D F C E B.
+
+D. Closures, Scope, Hoisting
+22. Fix closure inside a loop
+for (var i=1; i<=3; i++) {
+ setTimeout(() => console.log(i), 1000);
+}
+
+23. Build a counter with private variable
+const counter = createCounter();
+counter.increment(); // 1
+counter.increment(); // 2
+
+24. Implement once(fn)
+
+Function runs only once.
+
+25. Explain output:
+var a = 10;
+function test() {
+  console.log(a);
+  var a = 20;
+}
+test();
+
+E. DOM & Browser-Based JS Problems
+26. Build a custom event delegation system
+27. Implement Infinite Scroll logic
+28. Implement a virtualized list
+
+(Like React Window)
+
+29. Build a simple reactive system (Vue-like reactivity)
+30. Polyfill for addEventListener
+F. Real-World System Design + JS Coding
+31. Build an autocomplete search with debounce
+32. Create a simple scheduler like setInterval using setTimeout
+33. Implement a simple router (SPA routing)
+34. Chunk a large array into smaller batches
+35. Build a polling function
+
+Poll API every 2 seconds until condition becomes true.
+
+36. Create an in-memory database with CRUD
+37. Convert CSV to JSON (manually parse it)
+38. Implement parallel + sequential execution of tasks
+39. Cache HTTP GET calls
+
+If same URL is requested → return cached response.
+
+40. Build a custom asyncQueue class
+
+Supports:
+
+enqueue
+
+dequeue
+
+pause
+
+resume
