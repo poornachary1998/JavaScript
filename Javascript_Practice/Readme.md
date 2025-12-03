@@ -30,7 +30,7 @@ Here you’ll start building **polyfills, async code, and DOM stuff**.
 14. Event Loop, Microtask Queue, Macrotask Queue  -- Done
 15. Timers (setTimeout, setInterval, requestAnimationFrame)  -- Done
 16. Call/Apply/Bind   --- Done.  
-17. Currying  
+17. Currying  -- Done
 18. Polyfills (forEach, map, filter, reduce, bind, call, apply)  
 19. Deep Copy vs Shallow Copy (JSON, structuredClone, recursion)  
 20. Event Bubbling, Capturing & Delegation  
